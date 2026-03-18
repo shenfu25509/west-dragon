@@ -12,7 +12,7 @@ main{margin: ;
      padding:10px;
      border:1px solid rgba(255, 255, 255, 0.95);
      border-radius:10px;
-     background-color: rgba(255, 255, 255, 0.95);
+     background-color: rgba(255, 255, 255, 0.92);
      box-shadow: 1px 1px 6px 2px #00000075 inset;
 }
 
@@ -46,6 +46,169 @@ main{margin: ;
                  background-color: rgb(186, 249, 223);
                  font-size: 8px;
                  box-shadow: 1px 1px 3px 0.5px #735555 ;
+
+}
+.DragonType{display:flex;
+           font-size:25px ;
+           font-weight: 450;
+
+}
+
+.DragonType img{ width:400px;
+                          }
+
+.DragonType figure {margin: auto;
+                   border:1px solid #ffffff;
+                   background-color: rgb(186, 249, 223);
+                   font-size: 8px;
+                   box-shadow: 1px 1px 3px 0.5px #735555 ;
+                }
+.DragonType2{display: flex;
+             flex-wrap: wrap;
+                     
+
+}
+.DragonType2 h3{font-weight: 700;
+    font-size: 23px;
+
+
+}
+.DragonType2 dt{font-weight: 600;
+    font-size: 19px;
+
+}
+.dragon{
+    display:flex;
+    flex-wrap: wrap;  
+    width:49%;
+    margin:0;
+    border-right:0.5px solid #735555;
+    border-bottom:0.5px solid #735555;
+        
+
+}     
+.dragon img{width: 400px;
+     
+
+}
+.dragon figure{margin: auto;
+                   border:1px solid #ffffff;
+                   background-color: rgb(186, 249, 223);
+                   font-size: 8px;
+                   box-shadow: 1px 1px 3px 0.5px #735555 ;
+                }
+
+.wyvern{display:flex;
+    flex-wrap: wrap;  
+    width: 50%;
+    border-bottom:0.5px solid #735555;
+   
+
+}    
+.wyvern img{width: 400px;
+    background-color: #ffffff;
+
+}   
+.wyvern figure{margin: auto;
+                   border:1px solid #ffffff;
+                   background-color: rgb(186, 249, 223);
+                   font-size: 8px;
+                   box-shadow: 1px 1px 3px 0.5px #735555 ;
+
+}
+
+}
+.wyvern img{width: 400px;
+    background-color: #ffffff;
+
+}   
+
+.amphiptere{display:flex;
+    flex-wrap: wrap;  
+    width: 49%;
+    border-right:0.5px solid #735555;
+     border-bottom:0.5px solid #735555;
+
+}
+.amphiptere img{width: 400px;
+    background-color: #ffffff;
+}
+
+
+.amphiptere figure{margin: auto;
+                   border:1px solid #ffffff;
+                   background-color: rgb(186, 249, 223);
+                   font-size: 8px;
+                   box-shadow: 1px 1px 3px 0.5px #735555 ;
+
+
+                
+}
+.drake{display:flex;
+    flex-wrap: wrap;  
+    width:50% ;
+    border-bottom:0.5px solid #735555;
+}
+
+.drake img{width:300px ;
+    background-color: #ffffff;
+
+
+}
+
+.drake figure{margin: auto;
+              border:1px solid #ffffff;
+              background-color: rgb(186, 249, 223);
+              font-size: 8px;
+               box-shadow: 1px 1px 3px 0.5px #735555 ;
+}  
+.lindwrum{display:flex;
+    flex-wrap: wrap;  
+    width: 49%;
+    border-right:0.5px solid #735555;
+}
+
+.lindwrum img{width: 400px;
+    background-color: #ffffff;
+
+
+}
+
+.lindwrum figure{margin: auto;
+                 border:1px solid #ffffff;
+                 background-color: rgb(186, 249, 223);
+                  font-size: 8px;
+                  box-shadow: 1px 1px 3px 0.5px #735555 ;
+} 
+.wrum{display:flex;
+    flex-wrap: wrap;  
+    width: 50%;
+}
+
+.wrum img{width: 400px;
+    background-color: #ffffff;
+
+
+}
+
+.wrum figure{margin: auto;
+             border:1px solid #ffffff;
+              background-color: rgb(186, 249, 223);
+             font-size: 8px;
+            box-shadow: 1px 1px 3px 0.5px #735555 ;
+}     
+
+.dragon em,.amphiptere em,.wyvern em,.drake em,.lindwrum em,.wrum em{font-size: 110%;
+    font-weight: 500;
+
+}
+.note h3{font-size:23px;
+    color:blueviolet;
+
+}
+.note em{text-decoration:underline;
+    color: brown;
+    font-weight: 550;
 
 }
 aside{margin-left:40px ;
