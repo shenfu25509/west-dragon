@@ -53,7 +53,8 @@ main{margin: ;
            font-weight: 450;
 
 }
-
+.DragonType ul{list-style:none;
+              }
 .DragonType img{ width:400px;
                           }
 
